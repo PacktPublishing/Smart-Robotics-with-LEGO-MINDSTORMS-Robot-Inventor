@@ -42,7 +42,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action:
 
-[https://www.youtube.com/playlist?list=PLeLcvrwLe186zxRbEaf_zEtCFgRC6-OoD] (Youtube Link)
+[Placeholder link](http://bit.ly/2Ovna4w)
 
 ### Related products
 * Learn Robotics Programming - Second Edition [[Packt]](https://www.packtpub.com/product/learn-robotics-programming-second-edition/9781839218804?utm_source=github&utm_medium=repository&utm_campaign=9781839218804) [[Amazon]](https://www.amazon.com/dp/1839218800)
