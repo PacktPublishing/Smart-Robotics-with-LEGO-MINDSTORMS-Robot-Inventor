@@ -52,3 +52,7 @@ Click on the following link to see the Code in Action:
 ## Get to Know the Author
 **Aaron Maurer**
 , also known as “Coffeechug” is the STEM lead for 21 school districts in Iowa helping to expand STEM, Computer Science, Makerspace, and Purposeful Play into classrooms K-12. Aaron is also a former FIRST LEGO League coach for 8 years with much success working with phenomenal kids.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800568402">https://packt.link/free-ebook/9781800568402 </a> </p>
